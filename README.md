@@ -1,4 +1,4 @@
-# AI-Augmented Analytics for Data Visualization: Module 6: Association
+# AI-Augmented Analytics for Data Visualization: Module 8: Association
 
 Prompts are on the course page.
 
