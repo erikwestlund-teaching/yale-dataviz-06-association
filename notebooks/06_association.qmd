@@ -1,0 +1,19 @@
+---
+title: "Association"
+---
+
+## Task
+
+Compare scatterplots and smoothers for infant mortality and income across countries. Fit income and region models, plot predictions over observations, and inspect fit.
+
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+```
+
+## Analysis
+
+```{r}
+
+```
