@@ -4,12 +4,16 @@ title: "Association"
 
 ## Task
 
-Compare scatterplots and smoothers for infant mortality and income across countries. Fit income and region models, plot predictions over observations, and inspect fit.
+Plot the association between income and infant mortality across countries, then plot model output from the NHANES file. The steps are in the module guide.
 
 ```{r}
+#| message: false
 library(readr)
 library(dplyr)
+library(tidyr)
+library(forcats)
 library(ggplot2)
+library(scales)
 ```
 
 ## Analysis
